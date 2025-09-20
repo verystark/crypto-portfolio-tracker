@@ -1,3 +1,1 @@
-Crypto Portfolio Tracker project.
-
-Not ready, yet!
+Never finished! ( abandoned project )
